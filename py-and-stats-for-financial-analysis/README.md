@@ -1,1 +1,1 @@
-# quant-finance-learning
+# Python & Statistics for Financial Analysis
