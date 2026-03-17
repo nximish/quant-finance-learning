@@ -93,7 +93,9 @@ Building on this foundation, I plan to:
 ## 👤 Author
 
 **Naimish Machchhar**
+
 Master of Science (by Research) in Artificial Intelligence
+
 Indian Institute of Technology Delhi
 
 * GitHub: https://github.com/nximish
