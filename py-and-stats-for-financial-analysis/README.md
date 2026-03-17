@@ -97,7 +97,7 @@ Master of Science (by Research) in Artificial Intelligence
 Indian Institute of Technology Delhi
 
 * GitHub: https://github.com/nximish
-* LinkedIn: https://linkedin.com/in/naimish-machchhar-03b88b1a6
+* LinkedIn: https://www.linkedin.com/in/naimishmachchhar/
 
 ---
 
